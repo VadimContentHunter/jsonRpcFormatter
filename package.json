@@ -1,0 +1,23 @@
+{
+  "name": "vadimcontenthunter-jsonrpc-formatter",
+  "version": "1.0.0",
+  "description": "A package for working with JSON-RPC 2.0. It automates the process of data formatting, supports all required fields and methods of the specification",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ваше_имя/jsonrpc-formatter.git"
+  },
+  "keywords": [
+    "jsonrpc",
+    "formatter",
+    "json",
+    "rpc"
+  ],
+  "author": {
+    "name": "Vadim Volkovskyi",
+    "email": "project.k.vadim@gmail.com"
+  },
+  "license": "ISC"
+}
