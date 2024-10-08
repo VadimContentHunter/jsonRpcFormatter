@@ -7,8 +7,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ваше_имя/jsonrpc-formatter.git"
+    "url": "git+https://github.com/VadimContentHunter/jsonRpcFormatter.git"
   },
+  "homepage": "https://github.com/VadimContentHunter/jsonRpcFormatter#readme",
   "keywords": [
     "jsonrpc",
     "formatter",
