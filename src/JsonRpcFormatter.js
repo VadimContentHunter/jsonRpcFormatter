@@ -99,7 +99,9 @@ class JsonRpcFormatter {
             }
 
             // Check for errors in the response (if error property exists)
-            JsonRpcFormatter.verificationError(parsedResponse?.error);
+            if (parsedResponse.hasOwnProperty("error")) {
+                JsonRpcFormatter.verificationError(parsedResponse?.error);
+            }
 
             return parsedResponse;
         } catch (error) {
